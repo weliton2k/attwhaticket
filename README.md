@@ -1,6 +1,6 @@
 # 📝 Updates Whaticket
 
-_______________________Whaticket Saas Multiatendimento - esse código não é gratuito proibido divulgar em grupos de whatsapp e outros.__________________________
+## 🚀 Whaticket Saas Multiatendimento - esse código não é gratuito proibido divulgar em grupos de whatsapp e outros.
 
 ## 🚀 Versão 10.12.0 - 16/12/2024
 
@@ -80,4 +80,4 @@ _______________________Whaticket Saas Multiatendimento - esse código não é gr
 ✅ Tempo de exibição nos tickets
 ✅ Painel com exibição de controle empresas
 
-_______________________Whaticket Saas Multiatendimento - esse código não é gratuito proibido divulgar em grupos de whatsapp e outros.__________________________
+## 🚀 Whaticket Saas Multiatendimento - esse código não é gratuito proibido divulgar em grupos de whatsapp e outros.
