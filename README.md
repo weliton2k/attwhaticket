@@ -1,7 +1,10 @@
 # 📝 Updates Whaticket
 
+_______________________Whaticket Saas Multiatendimento - esse código não é gratuito proibido divulgar em grupos de whatsapp e outros.__________________________
+
 ## 🚀 Versão 10.12.0 - 16/12/2024
 
+✅ Nova Tela de Login. 
 ✅ Nova Aba Grupos no Atendendo.
 ✅ Adicionado menu de Updates - SISTEMA - ( whitelabel )
 ✅ Adicionado novos gráficos ( Atendimentos por Atendentes, Atendimentos por Departamentos/Filas, Horário de Pico - Troca de mensagens, Avaliações por Departamento/Fila.
@@ -76,3 +79,5 @@
 ✅ Vcard para abrir ticket ou add contato
 ✅ Tempo de exibição nos tickets
 ✅ Painel com exibição de controle empresas
+
+_______________________Whaticket Saas Multiatendimento - esse código não é gratuito proibido divulgar em grupos de whatsapp e outros.__________________________
