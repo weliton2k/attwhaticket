@@ -17,17 +17,16 @@
 ✅ Correção de váriaveis do sistema.
 ✅ Correção ao redimensionar área de ticket (Removido o erro);
 ✅ Validação número ContactModal;
-✅ Atualização Openai "openai": "3.3.0", e wbotMessageListener.ts;
 ✅ Correção nas Avaliações de 1 para 5;
 ✅ Mensagem de avaliação somente quando ticket estiver em atendimento;
-Audio no iPhone;
+🚀 Audio no iPhone;
 ✅ Recusando chamadas automaticamente
 ✅ filas da conexão sendo removidas ao requisitar novo QR code;
 ✅ Dashboard reformulado;
 ✅ Página de Relatorios;
 ✅ Divisão empresas por pastas;
 
-Inserido no Kanban e Reformulado foi add dentro do card:
+🚀 Inserido no Kanban e Reformulado foi add dentro do card:
 
 ✅ Notas, Agendamentos;
 ✅ Reformulado a Coluna;
