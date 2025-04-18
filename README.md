@@ -2,6 +2,25 @@
 
 ## 🚀 Whaticket Saas Multiatendimento - esse código não é gratuito proibido divulgar em grupos de whatsapp e outros.
 
+## 🚀 Versão 10.12.1 - 21/04/2025
+
+✅ Correções Darkmode nas mensagens.
+✅ Botão Dark/Light junto com icone perfil.
+✅ Estilo dos cards na Dashboard alterados e icone de imprimir removido.
+✅ Estilo de ticket alterado.
+✅ Respostas rápidas novo layout.
+✅ Correção no envio de menu ( filas ) 3ª tentativa envia para 1ª fila.
+✅ Botão de tradução para futuros idiomas.
+✅ Aviso de contato (caso o ticket esteja aberto, é emitido um aviso).  
+✅ Página de conexão reformulada.
+✅ Adicionada opção de SuperAdmin (dentro do popup do usuário).
+✅ Correção do agendamento (agora envia imagem com texto).
+✅ Agendamento reformulado (pode usar com ciclos).
+✅ Novo Layout na tela de login.
+✅ Novo Layout na tela de signup.
+✅ Novo Layout na tela de atendimento aba tickets.
+✅ Correção do vazamento (WebSocket).
+
 ## 🚀 Versão 10.12.1 - 12/03/2025
 
 ✅ Feito correção na Open.AI agora por fila.
