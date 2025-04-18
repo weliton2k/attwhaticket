@@ -2,7 +2,7 @@
 
 ## 🚀 Whaticket Saas Multiatendimento - esse código não é gratuito proibido divulgar em grupos de whatsapp e outros.
 
-## 🚀 Versão 10.12.1 - 21/04/2025
+## 🚀 Versão V.13 - 21/04/2025
 
 ✅ Correções Darkmode nas mensagens.
 ✅ Botão Dark/Light junto com icone perfil.
