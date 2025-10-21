@@ -2,6 +2,13 @@
 
 ## 🚀 Whaticket Saas Multiatendimento - esse código não é gratuito proibido divulgar em grupos de whatsapp e outros.
 
+## 🚀 Versão V.13.5 - 21/10/2025
+
+✅ Correções Lids e jids
+✅ Correções de contatos duplicados no ticket
+✅ Correções no recebimento e envio de mensagens ( Percas )
+✅ Melhorias gerais interna no código fonte.
+
 ## 🚀 Versão V.13 - 21/04/2025
 
 ✅ Correções Darkmode nas mensagens.
