@@ -2,6 +2,18 @@
 
 ## 🚀 Whaticket Saas Multiatendimento - esse código não é gratuito proibido divulgar em grupos de whatsapp e outros.
 
+## 🚀 Versão V.13.10.0 - 12/11/2025
+
+✅ Atualizações – API v7.0.0-rc.6
+✅ Gemini (Beta)
+✅ Notificação de ticket em atendimento
+✅ Enviar saudação automática ao aceitar o ticket
+✅ Enviar mensagem ao transferir fila/agente
+✅ MercadoPago (Configuração pelo painel)
+✅ Gerencianet (Configuração pelo painel)
+✅ Encaminhar localização (corrigido)
+✅ Encaminhar arquivos (corrigido)
+
 ## 🚀 Versão V.13.5 - 21/10/2025
 
 ✅ Correções Lids e jids
