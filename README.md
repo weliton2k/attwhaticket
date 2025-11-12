@@ -2,7 +2,7 @@
 
 ## 🚀 Whaticket Saas Multiatendimento - esse código não é gratuito proibido divulgar em grupos de whatsapp e outros.
 
-## 🚀 Versão V.13.10.0 - 12/11/2025
+## 🚀 Versão V.13.10.0 - 12/11/2025 ( Ainda em Produção de lançamento )
 
 ✅ Atualizações – API v7.0.0-rc.6
 ✅ Gemini (Beta)
